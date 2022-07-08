@@ -51,3 +51,59 @@ elif user_choice == computer_choice:
     print("Its a draw")
 else:
     print("You loose!")
+    
+
+    
+#OUTPUT
+
+
+# It is 1 for rock, 2 for paper, and 3 for scissors
+# what is your choice?
+# 2
+
+#      _______
+# ---'    ____)____
+#            ______)
+#           _______)
+#          _______)
+# ---.__________)
+
+# Computer chose
+# 3
+
+#     _______
+# ---'   ____)____
+#           ______)
+#        __________)
+#       (____)
+# ---.__(___)
+
+# You loose!
+
+
+# Test case 2
+
+# It is 1 for rock, 2 for paper, and 3 for scissors
+# what is your choice?
+# 3
+
+#     _______
+# ---'   ____)____
+#           ______)
+#        __________)
+#       (____)
+# ---.__(___)
+
+# Computer chose
+# 2
+
+#      _______
+# ---'    ____)____
+#            ______)
+#           _______)
+#          _______)
+# ---.__________)
+
+# Youu win!
+
+
