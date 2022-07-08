@@ -44,3 +44,16 @@ for char in password_list:
   password += char
 
 print(f"Your password is: {password}")
+
+
+#OUTPUT
+# Welcome to the PyPassword Generator!
+# How many letters would you like in your password?
+# 4
+# How many symbols would you like?
+# 4
+# How many numbers would you like?
+# 4
+# ['j', 'z', 'y', 'M', ')', '!', '+', '&', '1', '0', '7', '6']
+# ['+', 'M', '6', '1', ')', 'z', '&', '0', '7', 'j', 'y', '!']
+# Your password is: +M61)z&07jy!
